@@ -1,7 +1,7 @@
 /**
  *
  * @providesModule SMXTabBarIOS
- * @flow
+ * @flow-weak
  */
 'use strict';
 

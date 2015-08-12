@@ -1,7 +1,7 @@
 /**
  *
  * @providesModule SMXIconImage
- * @flow
+ * @flow-weak
  */
 'use strict';
 

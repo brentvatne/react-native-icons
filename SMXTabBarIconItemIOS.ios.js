@@ -1,7 +1,7 @@
 /**
  *
  * @providesModule SMXTabBarItemIOS
- * @flow
+ * @flow-weak
  */
 'use strict';
 

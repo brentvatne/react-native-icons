@@ -1,7 +1,7 @@
 /**
  *
  * @providesModule SMXLoadingImage
- * @flow
+ * @flow-weak
  */
 'use strict';
 
